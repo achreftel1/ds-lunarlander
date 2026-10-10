@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 results/*.npz
-results/*.png
-results/*.pt
-.DS_Store
+results/*.mat
+results/*.zip
+results/ds_data/
+results/export/
